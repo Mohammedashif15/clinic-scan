@@ -6,3 +6,6 @@ ultralytics
 opencv-python-headless
 numpy
 pillow
+groq
+requests
+openai
